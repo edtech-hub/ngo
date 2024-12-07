@@ -92508,9 +92508,9 @@ if(p.length===1)s.q(new A.aqH(r))
 if(r.b.length===1)s.q(new A.aqI(r))
 s.q(new A.aqJ(r,s))
 s.a7()
-new A.cG(A.d_(null),"http://localhost:3000").rB(A.dj("t")).cF(new A.aqK(s))},
+new A.cG(A.d_(null),"https://api.edastra.in").rB(A.dj("t")).cF(new A.aqK(s))},
 n4(a){this.q(new A.aqS(this))
-new A.cG(A.d_(null),"http://localhost:3000").rB(A.dj("t")).cF(new A.aqT(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").rB(A.dj("t")).cF(new A.aqT(this))},
 E(b2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Admission Enquiry",a7=t.w,a8=A.af(b2,a5,a7).w.a.a,a9=A.af(b2,a5,a7).w.a.b,b0=a8-330-a8*0.22,b1=A.c_(b2,!0,t.A).a
 a7=A.cl(a5,a5,a5,a5,a5,a5,a5,a5,a5)
 a7=A.e(A.d9(!b1?"assets/background.jpg":"assets/background_lt.jpeg",B.bJ,B.ce,a5),a9-a7.fx.b,a8-281.6)
@@ -92637,7 +92637,7 @@ o=p.d
 s=o.a.a.length!==0&&p.e.a.a.length!==0?2:4
 break
 case 2:A.lM(null)
-p=new A.cG(A.d_(null),"http://localhost:3000").zg(A.dj("t"),o.a.a,p.e.a.a,p.w,p.f.a.a).cF(new A.aqC(p,q.b,q.c))
+p=new A.cG(A.d_(null),"https://api.edastra.in").zg(A.dj("t"),o.a.a,p.e.a.a,p.w,p.f.a.a).cF(new A.aqC(p,q.b,q.c))
 s=5
 return A.U(p,$async$$0)
 case 5:s=3
@@ -92718,9 +92718,9 @@ if(p.length===1)s.q(new A.asz(r))
 if(r.b.length===1)s.q(new A.asA(r))
 s.q(new A.asB(r,s))
 s.a7()
-new A.cG(A.d_(null),"http://localhost:3000").oO(A.dj("t")).cF(new A.asC(s))},
+new A.cG(A.d_(null),"https://api.edastra.in").oO(A.dj("t")).cF(new A.asC(s))},
 n4(a){this.q(new A.asH(this))
-new A.cG(A.d_(null),"http://localhost:3000").oO(A.dj("t")).cF(new A.asI(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").oO(A.dj("t")).cF(new A.asI(this))},
 E(b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=this,a7=null,a8=t.w,a9=A.af(b3,a7,a8).w.a.a,b0=A.af(b3,a7,a8).w.a.b,b1=a9-330-a9*0.22,b2=A.c_(b3,!0,t.A).a
 a8=A.cl(a7,a7,a7,a7,a7,a7,a7,a7,a7)
 a8=A.e(A.d9(!b2?"assets/background.jpg":"assets/background_lt.jpeg",B.bJ,B.ce,a7),b0-a8.fx.b,a9-281.6)
@@ -92874,7 +92874,7 @@ s=n.length!==0&&o.z!=="Select typr"&&o.y!=="Select date"?2:3
 break
 case 2:p=A.aJ(["date",o.y,"name",n,"type",o.z,"description",o.f.a.a],t.N,t.z)
 A.lM(null)
-o=new A.cG(A.d_(null),"http://localhost:3000").Cb(A.dj("t"),p,B.i.L(o.y,2,4)).cF(new A.aso(o,q.b,q.c))
+o=new A.cG(A.d_(null),"https://api.edastra.in").Cb(A.dj("t"),p,B.i.L(o.y,2,4)).cF(new A.aso(o,q.b,q.c))
 s=4
 return A.U(o,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -92922,7 +92922,7 @@ A.q8.prototype={
 J(){return new A.VV(A.a(["English","History","Science","Math"],t.s),[],[])}}
 A.VV.prototype={
 X(){this.a7()
-new A.cG(A.d_(null),"http://localhost:3000").oO(A.dj("t")).cF(new A.auy(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").oO(A.dj("t")).cF(new A.auy(this))},
 E(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="Events Gallery",a0=t.w,a1=A.af(a4,b,a0).w.a.a,a2=A.af(a4,b,a0).w.a.b,a3=A.c_(a4,!0,t.A).a
 a0=A.cl(b,b,b,b,b,b,b,b,b)
 a0=A.e(A.d9(!a3?"assets/background.jpg":"assets/background_lt.jpeg",B.bJ,B.ce,b),a2-a0.fx.b,a1-281.6)
@@ -93119,7 +93119,7 @@ A.px.prototype={
 J(){return new A.Tl([])}}
 A.Tl.prototype={
 X(){this.a7()
-new A.cG(A.d_(null),"http://localhost:3000").kJ(A.dj("t")).cF(new A.aqk(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").kJ(A.dj("t")).cF(new A.aqk(this))},
 E(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="Academic Records",a3=t.w,a4=A.af(a6,a1,a3).w.a.a,a5=A.af(a6,a1,a3).w.a.b
 a3=a4-330
 s=a3-a4*0.04
@@ -93208,7 +93208,7 @@ A.py.prototype={
 J(){return new A.Tm(A.a(["All","Shortage","Non-Shortage"],t.s),[])}}
 A.Tm.prototype={
 X(){this.a7()
-new A.cG(A.d_(null),"http://localhost:3000").kJ(A.dj("t")).cF(new A.aqs(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").kJ(A.dj("t")).cF(new A.aqs(this))},
 E(a){var s,r,q,p,o,n,m,l,k,j=null,i="Academic Records",h=t.w,g=A.af(a,j,h).w.a.a,f=A.af(a,j,h).w.a.b,e=A.c_(a,!0,t.A).a
 h=A.cl(j,j,j,j,j,j,j,j,j)
 s=A.e(j,f*0.01,j)
@@ -93994,7 +93994,7 @@ s=s?300:400
 return A.mw(p,p,A.a9(p,A.bv(A.Y(A.a([r,q,A.e(A.d9(l?"assets/ed_astra_lt.png":"assets/ed_astra_dkt.png",B.bJ,p,200),p,s)],t.p),B.d,B.a1,B.c),p,p),B.n,o,p,p,p,m,p,p,p,p,n),p,p)}}
 A.ayL.prototype={
 $0(){var s=this.a
-new A.cG(A.d_(null),"http://localhost:3000").wJ(s.a.c).cF(new A.ayK(s))},
+new A.cG(A.d_(null),"https://api.edastra.in").wJ(s.a.c).cF(new A.ayK(s))},
 $S:14}
 A.ayK.prototype={
 $1(a){var s,r
@@ -94142,7 +94142,7 @@ else n.q(new A.awd(n))
 if(B.m.j(p).length===1)n.q(new A.awe(n,p))
 else n.q(new A.awf(n,p))
 n.q(new A.awg(o,n))
-o=new A.cG(A.d_(null),"http://localhost:3000").vb(n.a.c,o.a,n.ch).cF(new A.awh(n,q.b))
+o=new A.cG(A.d_(null),"https://api.edastra.in").vb(n.a.c,o.a,n.ch).cF(new A.awh(n,q.b))
 s=4
 return A.U(o,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -94300,7 +94300,7 @@ else n.q(new A.awz(n))
 if(B.m.j(p).length===1)n.q(new A.awA(n,p))
 else n.q(new A.awB(n,p))
 n.q(new A.awC(o,n))
-o=new A.cG(A.d_(null),"http://localhost:3000").vb(n.a.c,o.a,n.ax).cF(new A.awD(n,q.b))
+o=new A.cG(A.d_(null),"https://api.edastra.in").vb(n.a.c,o.a,n.ax).cF(new A.awD(n,q.b))
 s=4
 return A.U(o,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -94377,7 +94377,7 @@ A.ZJ.prototype={
 X(){var s=this
 s.a7()
 A.u8(s.a.c)
-new A.cG(A.d_(null),"http://localhost:3000").wy(s.a.c).cF(new A.aBX(s))},
+new A.cG(A.d_(null),"https://api.edastra.in").wy(s.a.c).cF(new A.aBX(s))},
 oI(){this.q(new A.aC5(this))},
 nc(){this.q(new A.aBU(this))},
 E(a){var s,r,q,p,o,n,m=null,l=t.w,k=A.af(a,m,l).w.a.b
@@ -94464,7 +94464,7 @@ p.nc()
 s=p.Q>=8&&p.x===p.y?2:3
 break
 case 2:p.q(new A.aC2(p))
-p=new A.cG(A.d_(null),"http://localhost:3000").wd(p.x,p.a.c).cF(new A.aC3(p))
+p=new A.cG(A.d_(null),"https://api.edastra.in").wd(p.x,p.a.c).cF(new A.aC3(p))
 s=4
 return A.U(p,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -94506,7 +94506,7 @@ J(){var s=$.aq()
 return new A.ZK(new A.bs(B.R,s),new A.bs(B.R,s))}}
 A.ZK.prototype={
 X(){this.a7()
-new A.cG(A.d_(null),"http://localhost:3000").wy(this.a.c).cF(new A.aCg(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").wy(this.a.c).cF(new A.aCg(this))},
 oI(){this.q(new A.aCp(this))},
 nc(){this.q(new A.aCd(this))},
 E(a){var s,r,q,p,o=null,n=t.w,m=A.af(a,o,n).w.a.b,l=A.af(a,o,n).w.a.a,k=A.c_(a,!0,t.A).a
@@ -94595,7 +94595,7 @@ p.nc()
 s=p.Q>=8&&p.x===p.y?2:3
 break
 case 2:p.q(new A.aCm(p))
-p=new A.cG(A.d_(null),"http://localhost:3000").wd(p.x,p.a.c).cF(new A.aCn(p))
+p=new A.cG(A.d_(null),"https://api.edastra.in").wd(p.x,p.a.c).cF(new A.aCn(p))
 s=4
 return A.U(p,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -94700,7 +94700,7 @@ s=p.Q&&p.y>=8?2:3
 break
 case 2:p.q(new A.aE3(p))
 if(p.as)A.lM("loading...")
-p=new A.cG(A.d_(null),"http://localhost:3000").vH(p.r,p.w).cF(new A.aE4(p,q.b))
+p=new A.cG(A.d_(null),"https://api.edastra.in").vH(p.r,p.w).cF(new A.aE4(p,q.b))
 s=4
 return A.U(p,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -94817,7 +94817,7 @@ s=p.Q&&p.y>=8?2:3
 break
 case 2:p.q(new A.aEf(p))
 if(p.as)A.lM("loading...")
-p=new A.cG(A.d_(null),"http://localhost:3000").vH(p.r,p.w).cF(new A.aEg(p,q.b))
+p=new A.cG(A.d_(null),"https://api.edastra.in").vH(p.r,p.w).cF(new A.aEg(p,q.b))
 s=4
 return A.U(p,$async$$0)
 case 4:case 3:return A.J(null,r)}})
@@ -94897,7 +94897,7 @@ A.mG.prototype={
 J(){var s=t.H7,r=t.t
 return new A.IL(new A.bs(B.R,$.aq()),A.a(["Pre KG","LKG","UKG","1st Std.","2nd Std.","3rd Std.","4th Std.","5th Std.","6th Std.","7th Std.","8th Std.","9th Std.","10th Std."],t.s),new A.c6(Date.now(),0,!1),A.a([],s),A.a([],s),[],[],[],A.a([],r),A.a([],r),A.a([],r))}}
 A.IL.prototype={
-X(){var s,r,q,p=this,o="http://localhost:3000",n={},m=p.f
+X(){var s,r,q,p=this,o="https://api.edastra.in",n={},m=p.f
 p.y=A.cB(m)-1
 s=J.bC(p.CW)
 r=J.jK(s,t.S)
@@ -95233,7 +95233,7 @@ $0(){this.a.ay=!1},
 $S:0}
 A.aFj.prototype={
 $0(){var s=this.a
-new A.cG(A.d_(null),"http://localhost:3000").Cd(A.dj("t"),s.cx).cF(new A.aF4(s,this.b,this.c))},
+new A.cG(A.d_(null),"https://api.edastra.in").Cd(A.dj("t"),s.cx).cF(new A.aF4(s,this.b,this.c))},
 $S:0}
 A.aF4.prototype={
 $1(a){var s=J.cT(a)
@@ -95334,7 +95334,7 @@ A.tb.prototype={
 J(){return new A.a0f(A.a(["All","Shortage","Non-Shortage"],t.s),[])}}
 A.a0f.prototype={
 X(){this.a7()
-new A.cG(A.d_(null),"http://localhost:3000").kJ(A.dj("t")).cF(new A.aFU(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").kJ(A.dj("t")).cF(new A.aFU(this))},
 E(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="Attendance",f=t.w,e=A.af(a,h,f).w.a.a,d=A.af(a,h,f).w.a.b,c=A.c_(a,!0,t.A).a
 f=A.cl(h,h,h,h,h,h,h,h,h)
 s=A.e(h,d*0.01,h)
@@ -95488,7 +95488,7 @@ $S:0}
 A.rU.prototype={
 J(){return new A.Id(new A.bs(B.R,$.aq()),A.a(["December"],t.s),[],[],[],A.a([],t.t))}}
 A.Id.prototype={
-X(){var s="http://localhost:3000"
+X(){var s="https://api.edastra.in"
 this.a7()
 new A.cG(A.d_(null),s).kJ(A.dj("t")).cF(new A.aD7(this))
 new A.cG(A.d_(null),s).rJ(A.dj("t")).cF(new A.aD8(this))},
@@ -95733,7 +95733,7 @@ s.a=a
 s.a=a.j(0).split(" ")[0]
 this.q(new A.apj(s,this))},
 n4(a){this.q(new A.apy(this))},
-X(){var s=this,r="http://localhost:3000"
+X(){var s=this,r="https://api.edastra.in"
 s.a7()
 if(s.a.c==="staff")new A.cG(A.d_(null),r).kJ(A.dj("t")).cF(new A.aps(s))
 else new A.cG(A.d_(null),r).lI(A.dj("t"),s.ay[0]).cF(new A.apt(s))},
@@ -96181,7 +96181,7 @@ $0(){var s,r=this.a,q=r.cx
 if(q.a.a.length!==0&&r.cy.a.a.length!==0&&r.db.a.a.length!==0&&r.dx.a.a.length!==0&&r.dy.a.a.length!==0&&r.R8!=="Select"&&r.fx.a.a.length!==0&&r.fy.a.a.length!==0&&r.go.a.a.length!==0&&r.id.a.a.length!==0&&r.k1.a.a.length!==0&&r.k2.a.a.length!==0&&r.rx!=="Select"&&r.fr.a.a.length!==0&&r.Q!=="Select Date"){s=A.aJ(["role",r.dx.a.a,"sex",r.R8,"dob",r.Q,"pics",A.a([""],t.s),"t",r.rx,"adhaar",r.fx.a.a,"q",r.fy.a.a,"acc",r.go.a.a,"bn",r.id.a.a,"ifsc",r.k1.a.a,"add",r.k2.a.a,"s",r.fr.a.a,"notes",""],t.N,t.z)
 r.q(new A.aom(r))
 A.lM(null)
-new A.cG(A.d_(null),"http://localhost:3000").zm(r.db.a.a,q.a.a,r.cy.a.a,"f",s,r.dy.a.a,A.dj("t")).cF(new A.aon(r,this.b,this.c))}else A.d8("Fill All Fields",null)},
+new A.cG(A.d_(null),"https://api.edastra.in").zm(r.db.a.a,q.a.a,r.cy.a.a,"f",s,r.dy.a.a,A.dj("t")).cF(new A.aon(r,this.b,this.c))}else A.d8("Fill All Fields",null)},
 $S:0}
 A.aom.prototype={
 $0(){this.a.ok=!0},
@@ -96484,7 +96484,7 @@ $0(){var s,r=this.a,q=r.cx.a.a
 if(q.length!==0&&r.cy.a.a.length!==0&&r.db.a.a.length!==0&&r.dx.a.a.length!==0&&r.dy.a.a.length!==0&&r.R8!=="Select"&&r.fx.a.a.length!==0&&r.fy.a.a.length!==0&&r.go.a.a.length!==0&&r.id.a.a.length!==0&&r.k2.a.a.length!==0&&r.ch!=="Select"&&r.fr.a.a.length!==0){s=A.aJ(["f",q,"l",r.cy.a.a,"email",r.db.a.a,"father",r.dx.a.a,"fnumber",r.dy.a.a,"sex",r.R8,"dob",r.Q,"pics",A.a([""],t.s),"adhaar",r.fx.a.a,"caste",r.fy.a.a,"mother",r.go.a.a,"mothernum",r.id.a.a,"add",r.k2.a.a,"salary",r.fr.a.a,"notes","","house",r.ch],t.N,t.z)
 r.q(new A.aoe(r))
 A.lM(null)
-new A.cG(A.d_(null),"http://localhost:3000").u4(r.ax,s,A.dj("t")).cF(new A.aof(r,this.b,this.c))}else A.d8("Fill All fields",null)},
+new A.cG(A.d_(null),"https://api.edastra.in").u4(r.ax,s,A.dj("t")).cF(new A.aof(r,this.b,this.c))}else A.d8("Fill All fields",null)},
 $S:0}
 A.aoe.prototype={
 $0(){this.a.ok=!0},
@@ -96597,7 +96597,7 @@ $S:15}
 A.aoc.prototype={
 $1(a){var s=this.a
 s.q(new A.ao1(s,a))
-new A.cG(A.d_(null),"http://localhost:3000").lI(A.dj("t"),s.ax).cF(new A.ao2(s))},
+new A.cG(A.d_(null),"https://api.edastra.in").lI(A.dj("t"),s.ax).cF(new A.ao2(s))},
 $S:13}
 A.ao1.prototype={
 $0(){var s=this.a
@@ -96712,7 +96712,7 @@ s.a=a.j(0).split(" ")[0]
 this.q(new A.azE(s,this))},
 n4(a){this.q(new A.azM(this))},
 X(){this.a7()
-new A.cG(A.d_(null),"http://localhost:3000").lI(A.dj("t"),this.ay[0]).cF(new A.azL(this))},
+new A.cG(A.d_(null),"https://api.edastra.in").lI(A.dj("t"),this.ay[0]).cF(new A.azL(this))},
 E(a){var s=null,r=t.w,q=A.af(a,s,r).w.a.a,p=A.af(a,s,r).w.a.b,o=A.c_(a,!0,t.A).a
 r=A.cl(s,s,s,s,s,s,s,s,s)
 return A.e(A.cp(A.cY(new A.azB(this),a,new A.azC(this,p,q,o,q*0.9),new A.azD(this,p,q,o)),B.E),p-r.fx.b,q-331)},
@@ -97052,7 +97052,7 @@ $0(){var s,r=this.a,q=r.cx.a.a
 if(q.length!==0&&r.cy.a.a.length!==0&&r.db.a.a.length!==0&&r.dx.a.a.length!==0&&r.dy.a.a.length!==0&&r.R8!=="Select"&&r.fx.a.a.length!==0&&r.fy.a.a.length!==0&&r.go.a.a.length!==0&&r.id.a.a.length!==0&&r.k2.a.a.length!==0&&r.ch!=="Select"&&r.fr.a.a.length!==0){s=A.aJ(["f",q,"l",r.cy.a.a,"email",r.db.a.a,"father",r.dx.a.a,"fnumber",r.dy.a.a,"sex",r.R8,"dob",r.Q,"pics",A.a([""],t.s),"adhaar",r.fx.a.a,"caste",r.fy.a.a,"mother",r.go.a.a,"mothernum",r.id.a.a,"add",r.k2.a.a,"salary",r.fr.a.a,"notes","","house",r.ch],t.N,t.z)
 r.q(new A.az2(r))
 A.lM(null)
-new A.cG(A.d_(null),"http://localhost:3000").u4(r.ax,s,A.dj("t")).cF(new A.az3(r,this.b,this.c))}else A.d8("Fill All fields",null)},
+new A.cG(A.d_(null),"https://api.edastra.in").u4(r.ax,s,A.dj("t")).cF(new A.az3(r,this.b,this.c))}else A.d8("Fill All fields",null)},
 $S:0}
 A.az2.prototype={
 $0(){this.a.ok=!0},
@@ -97124,7 +97124,7 @@ $S:15}
 A.azr.prototype={
 $1(a){var s=this.a
 s.q(new A.az6(s,a))
-new A.cG(A.d_(null),"http://localhost:3000").lI(A.dj("t"),s.ax).cF(new A.az7(s))},
+new A.cG(A.d_(null),"https://api.edastra.in").lI(A.dj("t"),s.ax).cF(new A.az7(s))},
 $S:13}
 A.az6.prototype={
 $0(){var s=this.a
