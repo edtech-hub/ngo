@@ -1,6 +1,6 @@
 {
-    "name": "vonisha",
-    "short_name": "vonisha",
+    "name": "web_version",
+    "short_name": "web_version",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
