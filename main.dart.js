@@ -96483,7 +96483,7 @@ $0(){this.a.ax=this.b},
 $S:0}
 A.aoD.prototype={
 $0(){var s,r=this.a,q=r.cx.a.a
-if(q.length!==0&&r.cy.a.a.length!==0&&r.db.a.a.length!==0&&r.dx.a.a.length!==0&&r.dy.a.a.length!==0&&r.R8!=="Select"&&r.fx.a.a.length!==0&&r.fy.a.a.length!==0&&r.go.a.a.length!==0&&r.id.a.a.length!==0&&r.k2.a.a.length!==0&&r.ch!=="Select"&&r.fr.a.a.length!==0){s=A.aJ(["f",q,"l",r.cy.a.a,"email",r.db.a.a,"father",r.dx.a.a,"fnumber",r.dy.a.a,"sex",r.R8,"dob",r.Q,"pics",A.a([""],t.s),"adhaar",r.fx.a.a,"caste",r.fy.a.a,"mother",r.go.a.a,"mothernum",r.id.a.a,"add",r.k2.a.a,"salary",r.fr.a.a,"notes","","house",r.ch],t.N,t.z)
+if(q.length!==0&&r.cy.a.a.length!==0&&r.db.a.a.length!==0&&r.dx.a.a.length!==0&&r.dy.a.a.length!==0&&r.R8!=="Select"&&r.fx.a.a.length!==0&&r.fy.a.a.length!==0&&r.go.a.a.length!==0&&r.k2.a.a.length!==0&&r.fr.a.a.length!==0){s=A.aJ(["f",q,"l",r.cy.a.a,"email",r.db.a.a,"father",r.dx.a.a,"fnumber",r.dy.a.a,"sex",r.R8,"dob",r.Q,"pics",A.a([""],t.s),"adhaar",r.fx.a.a,"caste",r.fy.a.a,"mother",r.go.a.a,"mothernum",r.id.a.a,"add",r.k2.a.a,"salary",r.fr.a.a,"notes","","house",r.ch],t.N,t.z)
 r.q(new A.aod(r))
 A.lM(null)
 new A.cG(A.d_(null),"https://api.edastra.in").u4(r.ax,s,A.dj("t")).cF(new A.aoe(r,this.b,this.c))}else A.d8("Fill All fields",null)},
